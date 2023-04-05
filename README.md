@@ -9,6 +9,8 @@
 
 #### Features
 
+- management site (UNDER CONSTRUCTION/PENDING USER STORIES)
+- SQL Database (UNDER CONSTRUCTION/PENDING USER STORIES)
 - Barcode Generator
 
 ##### How to use
