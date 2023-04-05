@@ -4,7 +4,7 @@
 
 ### Requirements
 
-- Waiting on requirements/ user stories from Kai
+- Waiting on requirements / user stories from Kai
 - What format for barcodes?
 
 #### Features
@@ -17,7 +17,10 @@
 2. python3 -m venv .venv
 3. source .venv/bin/activate
 4. python3 barcode_generator.py
+5. python manage.py runserver
 
 ##### Resources
 
+- Django
+- Tailwind CSS
 [python-barcode](https://python-barcode.readthedocs.io/en/stable/getting-started.html)
