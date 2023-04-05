@@ -4,7 +4,7 @@
 
 ### Requirements
 
-- Waiting on requiremnts/ user stories from Kai
+- Waiting on requirements/ user stories from Kai
 - What format for barcodes?
 
 #### Features
