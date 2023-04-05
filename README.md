@@ -26,3 +26,4 @@
 - Django
 - Tailwind CSS
 - [python-barcode](https://python-barcode.readthedocs.io/en/stable/getting-started.html)
+- [Wireframe](https://www.figma.com/file/ZxUcpQcJySgphmIFy2Dn34/Wireframe-for-Kai?node-id=0-1&t=KD25cpex2aRFsaxM-0)
