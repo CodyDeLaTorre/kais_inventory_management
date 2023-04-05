@@ -23,4 +23,4 @@
 
 - Django
 - Tailwind CSS
-[python-barcode](https://python-barcode.readthedocs.io/en/stable/getting-started.html)
+- [python-barcode](https://python-barcode.readthedocs.io/en/stable/getting-started.html)
